@@ -1,6 +1,6 @@
 # Jay Dubois
 
-Homepage for Jay Dubois, focused on handling conflict after divorce and being present with your kid.
+Homepage for Jay Dubois, offering coaching for dads working through disagreements in a marriage or co-parenting relationship.
 
 Static HTML, CSS, and JavaScript with responsive photography and an ARC diagram. No build step or external dependencies.
 
